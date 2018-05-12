@@ -1,0 +1,32 @@
+_repo: '---_30460'
+_version: 0.1.0
+alternative_title: Chu Shi Biao
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhuge, Liang
+    aliases:
+    - 诸葛亮
+    - 諸葛亮
+    birthdate: 181
+    deathdate: 234
+    gutenberg_agent_id: '34620'
+    url: http://www.gutenberg.org/2009/agents/34620
+    wikipedia: http://zh.wikipedia.org/wiki/%E8%AF%B8%E8%91%9B%E4%BA%AE
+description: ''
+gutenberg_issued: '2009-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30460'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'China -- History -- Three kingdoms, 220-265 -- Sources'
+tableOfContents: "前出師表\r\n後出師表"
+title: 出師表
+url: http://www.gutenberg.org/ebooks/30460
